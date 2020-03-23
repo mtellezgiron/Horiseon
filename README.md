@@ -4,10 +4,10 @@
 
 ### Created: March 2020
 
-### Files: index.html, 
+### Files: index.html, images, and styles.css
 
-### assets
+### build status: complete
 
-### images & style.css
+### description: Horiseon is a website with information on maximizine the search-engine, manage the reputation of your wesbite and marketing tools. 
 
 ### Welcome to my project!
